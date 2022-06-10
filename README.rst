@@ -31,9 +31,9 @@ Installation
 
 ::
 
-   git clone https://github.com/fportantier/vulpy
+   git clone https://github.com/soumyamaity/REVA2022.git
 
-   cd vulpy
+   cd REVA2022
 
    pip3 install --user -r requirements.txt
 
