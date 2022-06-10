@@ -82,6 +82,16 @@ The execution of the script is, for example:
    cd bad
    ./db_init.py
 
+Running the application
+-------------------------
+
+run the vulpy.py file.
+
+::
+   cd bad
+   ./vulpy.py
+
+
 
 Default Credentials
 -------------------
