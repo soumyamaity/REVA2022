@@ -31,9 +31,9 @@ Installation
 
 ::
 
-   git clone https://github.com/soumyamaity/REVA2022.git
+   git clone https://github.com/soumyamaity/REVA2023.git
 
-   cd REVA2022
+   cd REVA2023
 
    pip3 install --user -r requirements.txt
 
