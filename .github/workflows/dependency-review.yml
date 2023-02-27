@@ -24,3 +24,4 @@ jobs:
         uses: actions/dependency-review-action@v2
         with:
          head-ref: 'refs/heads/master'
+         base-ref: 'refs/heads/master'
