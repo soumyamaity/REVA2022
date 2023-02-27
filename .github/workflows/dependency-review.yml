@@ -23,3 +23,8 @@ jobs:
         uses: actions/checkout@v3
       - name: 'Dependency Review'
         uses: actions/dependency-review-action@v3
+        with:
+         head-ref: 'refs/heads/master'
+         base-ref: 'refs/heads/master'
+         fail-on-severity: critical
+         vulnerability-check: true
