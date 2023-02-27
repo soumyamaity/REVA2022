@@ -25,3 +25,5 @@ jobs:
         with:
          head-ref: 'refs/heads/master'
          base-ref: 'refs/heads/master'
+         fail-on-severity: critical
+         vulnerability-check: true
